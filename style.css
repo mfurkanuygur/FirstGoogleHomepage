@@ -1,0 +1,48 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.form-section {
+    background-color: rgb(226, 225, 225);
+    height: auto;
+    width: 90%;
+
+}
+
+input {
+    width: 35%;
+    text-align: left;
+    
+}
+
+.main {
+    width: 90%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.row-one {
+    background-color: rgb(126, 229, 218);
+    border: 2px solid white;
+    width: 38%;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.row-two {
+    background-color: rgb(112, 204, 194);
+    width: 18%;
+    border: 2px solid white;
+    font-size: small;
+    padding-top: 10px;
+}
+
+.row-three {
+    background-color: rgb(112, 204, 194);
+    width: 45%;
+    border: 2px solid white;
+    font-size: small;
+}
